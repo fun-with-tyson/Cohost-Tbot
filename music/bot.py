@@ -235,4 +235,4 @@ bot.remove_command('help')
 async def on_ready():
     print('Logged in as:\n{0} (ID: {0.id})'.format(bot.user))
 
-bot.run('MzU5OTU4NzY3NTc3NTk1OTA0.DLMSOw.lE196vkAXApXT0_jd2j1yPJCwgU')
+bot.run('Token')
